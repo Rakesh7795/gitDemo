@@ -7,5 +7,10 @@ public class Git2 {
 		System.out.println("Raki");
 
 	}
+	private void address() {
+		
+		System.out.println("Neyveli");
+
+	}
 
 }
